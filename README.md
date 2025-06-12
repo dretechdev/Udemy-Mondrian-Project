@@ -1,5 +1,5 @@
 # Mondrian-Project: Composition No III with Red, Blue, Yellow, and Black.
-Tools: HTML5, CSS Flexbox and CSS Grid
+Tools: HTML5, CSS Flexbox and CSS Grid.
 
 This project was inspired by Piet Mondrian, an influential DutcH Painter, whose work of art evolved over his lifetime into his own unique style which he coined "neo-plasticism"
 
